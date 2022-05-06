@@ -1,2 +1,2 @@
-# financial_balance_MERN
-Created with CodeSandbox
+# React app - Financial Balance
+

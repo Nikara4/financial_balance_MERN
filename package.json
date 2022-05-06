@@ -1,18 +1,23 @@
 {
-  "name": "week-4-expensess-calc",
+  "name": "financial-balance",
   "version": "1.0.0",
   "description": "",
-  "keywords": [],
+  "keywords": [
+    "finance",
+    "financial",
+    "balance",
+    "incomes",
+    "expenses"
+  ],
   "main": "src/index.js",
   "dependencies": {
     "react": "17.0.2",
     "react-dom": "17.0.2",
     "react-hook-form": "7.19.0",
-    "react-scripts": "4.0.0"
+    "react-scripts": "^5.0.1"
   },
   "devDependencies": {
-    "@babel/runtime": "7.13.8",
-    "typescript": "4.1.3"
+    "@babel/runtime": "7.13.8"
   },
   "scripts": {
     "start": "react-scripts start",
