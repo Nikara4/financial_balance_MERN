@@ -1,0 +1,21 @@
+.div__balance {
+  /* border: 1px solid black; */
+  border-radius: 12px;
+  box-shadow: 0 1px 8px rgba(0, 0, 0, 0.5);
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  width: 90%;
+  margin: 15px auto;
+  padding: 15px;
+}
+
+.div__balance h2 {
+  margin: 10px;
+  font-size: 20px;
+}
+
+.div__balance p {
+  margin: 10px;
+  font-size: 20px;
+}
